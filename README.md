@@ -1,3 +1,6 @@
+> [!NOTE]
+> Forked from JakubKopys/restart-qbittorent
+
 # Restart qBitTorrent
 qbittorrent docker container looses connection after gluetun's "self-healing" reconnects.
 This script solves this problem, by restarting the qbittorent container when that happens
