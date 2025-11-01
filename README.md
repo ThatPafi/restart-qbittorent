@@ -20,6 +20,7 @@ Instead of relying on the health check, this script listens to Gluetun's Logs, a
 
 ### Docker
 
+[image](https://hub.docker.com/r/thatpafi/restart-qbittorrent)  
 The easiest way to use this script is to use the [docker-compose.yml](https://github.com/JakubKopys/restart-qbittorent/blob/main/docker-compose.yml)
 
 ### Run on Host - Systemd
